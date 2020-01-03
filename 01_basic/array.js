@@ -12,6 +12,7 @@ for(let index in array3)
 {
     console.log(index);
 }
+//Enhanced for-loop
 for(let item of array3)
 {
     console.log(item);
