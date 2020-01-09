@@ -4,7 +4,7 @@ module.exports.itemview = function(navBar, trs)
     <!DOCTYPE html>
     <html>
     <head>
-        <title>DB Web</title>
+        <title>Express web</title>
         <meta charset="utf-8">
         <style>
             table {
